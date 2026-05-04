@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Yuxi Wang"
   pronouns         :
-  bio              : "Master of Engineering (by Research), School of Computer Science and Engineering, Nanyang Technological University"
+  bio              : "Master of Engineering (by Research)"
   location         : "Singapore"
   employer         : "Nanyang Technological University"
   uri              :
@@ -36,10 +36,10 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/0009-0009-6152-0679"
+  #orcid            : "https://orcid.org/0009-0009-6152-0679"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -55,7 +55,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  #bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
