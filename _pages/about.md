@@ -20,23 +20,18 @@ I am interested in building trustworthy speech and audio systems, with a focus o
 - Explainable AI for speech and audio models
 - Robust evaluation for real-world audio systems
 
-# News {#news}
-
-- **2026.05** Website updated with a cleaner academic homepage layout.
-- **2025.08** Started Master of Engineering (by Research) at Nanyang Technological University.
-
 # Selected Publications {#publications}
 
 - Publications will be updated here.
 
-# Education {#education}
+# Educations {#educations}
 
 - **2025.08 - Present**, Nanyang Technological University, Singapore  
   Master of Engineering (by Research)
 
-# Experiences {#experiences}
+# Intern Experiences {#intern-experiences}
 
-- Research experience in audio deepfake detection, speech security, and explainable AI.
+- Internship experience will be updated here.
 
 # Academic Services {#academic-services}
 

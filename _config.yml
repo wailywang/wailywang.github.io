@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Yuxi Wang"
   pronouns         :
-  bio              : "Master of Engineering (by Research)"
+  bio              : "Master of Engineering (by Research) @ Nanyang Technological University"
   location         : "Singapore"
-  employer         : "Nanyang Technological University"
+  #employer         : "NTU Singapore"
   uri              :
   email            : "wa0009xi@e.ntu.edu.sg"
 

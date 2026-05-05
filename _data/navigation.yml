@@ -11,17 +11,14 @@ main:
   - title: "About Me"
     url: /#about-me
 
-  - title: "News"
-    url: /#news
-
   - title: "Publications"
     url: /#publications
 
-  - title: "Education"
-    url: /#education
+  - title: "Educations"
+    url: /#educations
 
-  - title: "Experiences"
-    url: /#experiences
+  - title: "Intern Experiences"
+    url: /#intern-experiences
 
   - title: "Academic Services"
     url: /#academic-services

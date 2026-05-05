@@ -43,6 +43,35 @@
 ;
 
 /* Site-specific homepage and sidebar refinements. */
+$site-sans-serif: "Inter", "Avenir Next", "Helvetica Neue", Arial, sans-serif;
+
+body,
+button,
+input,
+select,
+textarea,
+.masthead,
+.sidebar,
+.page,
+.page__content,
+.author__content,
+.author__urls {
+  font-family: $site-sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.page__title,
+.author__name,
+.masthead__menu-item {
+  font-family: $site-sans-serif;
+  letter-spacing: 0;
+}
+
 @include breakpoint($large) {
   .sidebar {
     width: 24%;
