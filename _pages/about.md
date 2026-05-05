@@ -9,23 +9,21 @@ redirect_from:
 
 # About Me {#about-me}
 
-I am currently a Master's by Research student at the College of Computing and Data Science, Nanyang Technological University (NTU), supervised by [Prof. Eng Siong Chng](https://aseschng.github.io/default.html). I received my Bachelor's degree in Data Science from Duke Kunshan University in 2025, supervised by [Prof. Ming Li](https://smiip-mli.github.io/). I am broadly interested in speech processing, AI security, and multimodal learning. Specifically, my research focuses on audio deepfake detection, audio watermarking, sound event detection, and language identification.
+I am currently a Master's by Research student at the College of Computing and Data Science, Nanyang Technological University (NTU), supervised by [Prof. Eng Siong Chng](https://aseschng.github.io/default.html). I received my Bachelor’s degree in Data Science from Duke University and Duke Kunshan University in 2025, supervised by [Prof. Ming Li](https://smiip-mli.github.io/). I am broadly interested in speech processing, AI security, and multimodal learning. Specifically, my research focuses on audio deepfake detection, audio watermarking, sound event detection, and language identification.
 
-### Research Interests
-
-- Audio deepfake detection and anti-spoofing
-- Speech security and trustworthy audio AI
-- Explainable AI for speech and audio models
-- Robust evaluation for real-world audio systems
-
-# Selected Publications {#publications}
+# Publications {#publications}
 
 - Publications will be updated here.
 
-# Educations {#educations}
+# Education {#education}
 
-- **2025.08 - Present**, Nanyang Technological University, Singapore  
-  Master of Engineering (by Research)
+- **2025.08 - 2027.05 (expected)**, Nanyang Technological University, Singapore  
+  Master of Engineering (by Research), College of Computing and Data Science  
+  Supervisor: [Prof. Eng Siong Chng](https://aseschng.github.io/default.html), Speech and Language Laboratory
+
+- **2021.08 - 2025.05**, Duke Kunshan University, China & United States  
+  Bachelor of Science in Data Science  
+  Supervisor: [Prof. Ming Li](https://smiip-mli.github.io/), Speech and Multimodal Intelligent Information Processing (SMIIP) Lab
 
 # Intern Experiences {#intern-experiences}
 
