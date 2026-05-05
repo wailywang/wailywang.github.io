@@ -9,9 +9,7 @@ redirect_from:
 
 # About Me {#about-me}
 
-I am a Master of Engineering (by Research) student at Nanyang Technological University, Singapore. My research interests include audio deepfake detection, speech security, and explainable AI.
-
-I am interested in building trustworthy speech and audio systems, with a focus on detecting synthetic or manipulated audio and understanding model behavior under realistic conditions.
+I am currently a Master's by Research student at the College of Computing and Data Science, Nanyang Technological University (NTU), supervised by [Prof. Eng Siong Chng](https://aseschng.github.io/default.html). I received my Bachelor's degree in Data Science from Duke Kunshan University in 2025, supervised by [Prof. Ming Li](https://smiip-mli.github.io/). I am broadly interested in speech processing, AI security, and multimodal learning. Specifically, my research focuses on audio deepfake detection, audio watermarking, sound event detection, and language identification.
 
 ### Research Interests
 
