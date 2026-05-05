@@ -93,6 +93,18 @@ h6,
   overflow-wrap: anywhere;
 }
 
+.sidebar p,
+.sidebar li,
+.sidebar .author__bio,
+.sidebar .author__desktop,
+.author__urls a {
+  font-size: 0.92rem;
+}
+
+.sidebar .author__name {
+  font-size: 1.05rem;
+}
+
 .author__urls a {
   line-height: 1.35;
 }
@@ -106,7 +118,7 @@ h6,
   margin-bottom: 0.75rem;
   padding-bottom: 0.35rem;
   border-bottom: 1px solid var(--global-border-color);
-  font-size: $type-size-3;
+  font-size: 1.25rem;
 }
 
 .page__content h1:not(:first-child) {
@@ -116,7 +128,7 @@ h6,
 .page__content h3 {
   margin-top: 1rem;
   margin-bottom: 0.35rem;
-  font-size: $type-size-5;
+  font-size: 1rem;
 }
 
 .page__content ul {
@@ -130,5 +142,6 @@ h6,
 
 .page__content p,
 .page__content li {
+  font-size: 0.95rem;
   line-height: 1.55;
 }
