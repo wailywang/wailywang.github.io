@@ -17,7 +17,7 @@ I am currently a Master's by Research student at the College of Computing and Da
 
 - ``2025`` ``IEEE`` Efficient Video to Audio Mapper with Visual Scene Detection \| Mingjing Yi, **Yuxi Wang**, Ming Li \| [[paper]](https://ieeexplore.ieee.org/document/11249337/) [[page]](https://1mageyi.github.io/V2A-SceneDetector.demo/) [[code]](https://github.com/1mageYi/V2A-SceneDetector)
 
-# Education {#education}
+# Educations {#education}
 
 - **2025.08 - 2027.05 (expected)**, Nanyang Technological University, Singapore  
   Master of Engineering (by Research), College of Computing and Data Science  
