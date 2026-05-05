@@ -13,7 +13,9 @@ I am currently a Master's by Research student at the College of Computing and Da
 
 # Publications {#publications}
 
-- Publications will be updated here.
+- ``2025`` ``Interspeech`` ``Dataset`` VCapAV: A Video-Caption Based Audio-Visual Deepfake Detection Dataset \| **Yuxi Wang\***, Yikang Wang*, Qishan Zhang, Hiromitsu Nishizaki, Ming Li \| [[paper]](https://www.isca-archive.org/interspeech_2025/wang25q_interspeech.html) [[page]](https://vcapav.github.io/) [[code]](https://github.com/wailywang/VCapAV) [[space]](https://huggingface.co/datasets/WailyWang/VCapAV/tree/main)
+
+- ``2025`` ``IEEE`` Efficient Video to Audio Mapper with Visual Scene Detection \| Mingjing Yi, **Yuxi Wang**, Ming Li \| [[paper]](https://ieeexplore.ieee.org/document/11249337/) [[page]](https://1mageyi.github.io/V2A-SceneDetector.demo/) [[code]](https://github.com/1mageYi/V2A-SceneDetector)
 
 # Education {#education}
 
