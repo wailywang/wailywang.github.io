@@ -145,3 +145,30 @@ h6,
   font-size: 0.95rem;
   line-height: 1.55;
 }
+
+.pub-tag {
+  display: inline-block;
+  margin-right: 0.25rem;
+  padding: 0.08rem 0.38rem;
+  border-radius: 3px;
+  font-size: 0.82em;
+  font-weight: 600;
+  line-height: 1.35;
+  text-decoration: none;
+  vertical-align: 0.05em;
+}
+
+.pub-year {
+  background: #eef4ff;
+  color: #224b8d;
+}
+
+.pub-venue {
+  background: #f2ecff;
+  color: #660874;
+}
+
+.pub-type {
+  background: #eaf7ef;
+  color: #237a3b;
+}
