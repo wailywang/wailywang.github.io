@@ -21,18 +21,18 @@ I am currently a Master's by Research student at the College of Computing and Da
 # Educations {#education}
 
 - **2025.08 - 2027.05 (expected)**, Nanyang Technological University, Singapore  
-  Master of Engineering (by Research), College of Computing and Data Science  
-  Supervisor: Prof. Eng Siong Chng, [Speech and Language Laboratory](https://aseschng.github.io/speechLab_intro.html)
+  - Master of Engineering (by Research), College of Computing and Data Science  
+  - Supervisor: Prof. Eng Siong Chng, [Speech and Language Laboratory](https://aseschng.github.io/speechLab_intro.html)
 
 - **2021.08 - 2025.05**, Duke Kunshan University, China & United States  
-  Bachelor of Science in Data Science  
-  Supervisor: Prof. Ming Li, [Speech and Multimodal Intelligent Information Processing (SMIIP) Lab](https://smiip-mli.github.io/)
+  - Bachelor of Science in Data Science  
+  - Supervisor: Prof. Ming Li, [Speech and Multimodal Intelligent Information Processing (SMIIP) Lab](https://smiip-mli.github.io/)
 
 # Intern Experiences {#intern-experiences}
 
 - **2026.02 - Present**, Huawei, Singapore  
-  Research Intern, Digital Trust Lab  
-  Mentor: [Dr. Lei Wang](https://scholar.google.com/citations?hl=en&user=YLa8T38AAAAJ&view_op=list_works&sortby=pubdate)
+  - Research Intern, Digital Trust Lab  
+  - Mentor: [Dr. Lei Wang](https://scholar.google.com/citations?hl=en&user=YLa8T38AAAAJ&view_op=list_works&sortby=pubdate)
 
 # Academic Services {#academic-services}
 
