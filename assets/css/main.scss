@@ -140,6 +140,22 @@ h6,
   margin-bottom: 0.35rem;
 }
 
+.page__content > ul > li {
+  position: relative;
+  margin-left: -0.35rem;
+  padding: 0.18rem 0.45rem 0.18rem 0.55rem;
+  border-left: 3px solid transparent;
+  border-radius: 4px;
+  transition: transform 0.16s ease, background-color 0.16s ease, border-color 0.16s ease, box-shadow 0.16s ease;
+}
+
+.page__content > ul > li:hover {
+  transform: translateX(3px);
+  border-left-color: #b21f66;
+  background-color: rgba(178, 31, 102, 0.045);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+}
+
 .page__content p,
 .page__content li {
   font-size: 0.95rem;
@@ -245,6 +261,7 @@ h6,
   .page__content code.pub-title,
   .page__content code.pub-author,
   .page__content a,
+  .page__content > ul > li,
   .author__urls a,
   .author__avatar img {
     transition: none;
@@ -253,6 +270,7 @@ h6,
   .pub-tag:hover,
   .page__content code.pub-title:hover,
   .page__content code.pub-author:hover,
+  .page__content > ul > li:hover,
   .author__urls a:hover,
   .author__avatar img:hover {
     transform: none;
