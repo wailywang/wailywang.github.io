@@ -179,33 +179,7 @@ h6,
   color: #237a3b;
 }
 
-#publications + ul > li {
-  margin-bottom: 1.05rem;
-}
-
-#publications + ul > li > p {
-  margin-bottom: 0.25rem;
-}
-
-#publications + ul > li > p:first-child strong {
-  color: var(--global-text-color);
-  font-size: 1.02em;
-}
-
-.pub-authors {
-  color: var(--global-text-color-light);
-}
-
-.pub-authors strong {
+#publications + ul strong {
   color: #b21f66;
-  font-weight: 700;
-}
-
-.pub-links {
-  color: var(--global-text-color-light);
-  font-size: 0.9rem;
-}
-
-.pub-links a {
   font-weight: 600;
 }
