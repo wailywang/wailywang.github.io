@@ -13,19 +13,23 @@ I am currently a Master's by Research student at the College of Computing and Da
 
 # Publications {#publications}
 
-- <span class="pub-tag pub-year">2025</span> <span class="pub-tag pub-venue">Interspeech</span> VCapAV: A Video-Caption Based Audio-Visual Deepfake Detection Dataset \| **Yuxi Wang\***, Yikang Wang*, Qishan Zhang, Hiromitsu Nishizaki, Ming Li \| [[paper]](https://www.isca-archive.org/interspeech_2025/wang25q_interspeech.html) [[page]](https://vcapav.github.io/) [[code]](https://github.com/wailywang/VCapAV) [[space]](https://huggingface.co/datasets/WailyWang/VCapAV/tree/main)
+- <span class="pub-tag pub-year">2026</span> <span class="pub-tag pub-venue">Interspeech</span> <span class="pub-tag pub-type">Under Review</span> VoxWatermark: A Large Scale Benchmark for Audio Watermark Detection under Perturbations
 
-- <span class="pub-tag pub-year">2025</span> <span class="pub-tag pub-venue">APSIPA</span> Efficient Video to Audio Mapper with Visual Scene Detection \| Mingjing Yi, **Yuxi Wang**, Ming Li \| [[paper]](https://ieeexplore.ieee.org/document/11249337/) [[page]](https://1mageyi.github.io/V2A-SceneDetector.demo/) [[code]](https://github.com/1mageYi/V2A-SceneDetector)
+- <span class="pub-tag pub-year">2026</span> <span class="pub-tag pub-venue">Interspeech</span> <span class="pub-tag pub-type">Under Review</span> X-AWMD: A Robust and Generalizable Framework for Black-Box Audio Watermark Detection
+
+- <span class="pub-tag pub-year">2025</span> <span class="pub-tag pub-venue">Interspeech</span> VCapAV: A Video-Caption Based Audio-Visual Deepfake Detection Dataset \| <span class="pub-me">Yuxi Wang*</span>, Yikang Wang*, Qishan Zhang, Hiromitsu Nishizaki, Ming Li \| [[paper]](https://www.isca-archive.org/interspeech_2025/wang25q_interspeech.html) [[page]](https://vcapav.github.io/) [[code]](https://github.com/wailywang/VCapAV) [[space]](https://huggingface.co/datasets/WailyWang/VCapAV/tree/main)
+
+- <span class="pub-tag pub-year">2025</span> <span class="pub-tag pub-venue">APSIPA</span> Efficient Video to Audio Mapper with Visual Scene Detection \| Mingjing Yi, <span class="pub-me">Yuxi Wang</span>, Ming Li \| [[paper]](https://ieeexplore.ieee.org/document/11249337/) [[page]](https://1mageyi.github.io/V2A-SceneDetector.demo/) [[code]](https://github.com/1mageYi/V2A-SceneDetector)
 
 # Educations {#education}
 
 - **2025.08 - 2027.05 (expected)**, Nanyang Technological University, Singapore  
   Master of Engineering (by Research), College of Computing and Data Science  
-  Supervisor: [Prof. Eng Siong Chng](https://aseschng.github.io/default.html), Speech and Language Laboratory
+  Supervisor: Prof. Eng Siong Chng, [Speech and Language Laboratory](https://aseschng.github.io/default.html)
 
 - **2021.08 - 2025.05**, Duke Kunshan University, China & United States  
   Bachelor of Science in Data Science  
-  Supervisor: [Prof. Ming Li](https://smiip-mli.github.io/), Speech and Multimodal Intelligent Information Processing (SMIIP) Lab
+  Supervisor: Prof. Ming Li, [Speech and Multimodal Intelligent Information Processing (SMIIP) Lab](https://smiip-mli.github.io/)
 
 # Intern Experiences {#intern-experiences}
 
