@@ -9,7 +9,7 @@ redirect_from:
 
 # About Me {#about-me}
 
-I am currently a Master's by Research student at the College of Computing and Data Science, Nanyang Technological University (NTU), supervised by [Prof. Eng Siong Chng](https://aseschng.github.io/default.html). I received my Bachelor’s degree in Data Science from Duke University and Duke Kunshan University in 2025, supervised by [Prof. Ming Li](https://scholars.duke.edu/person/MingLi). I am broadly interested in speech processing, AI security, and multimodal learning. Specifically, my research focuses on audio deepfake detection, audio watermarking, sound event detection, and language identification.
+I am currently a Master of Engineering (by Research) student at the College of Computing and Data Science, Nanyang Technological University (NTU), supervised by [Prof. Eng Siong Chng](https://aseschng.github.io/default.html). I received my Bachelor’s degree in Data Science from Duke University and Duke Kunshan University in 2025, supervised by [Prof. Ming Li](https://scholars.duke.edu/person/MingLi). I am broadly interested in speech processing, AI security, and multimodal learning. Specifically, my research focuses on audio deepfake detection, audio watermarking, sound event detection, and language identification.
 
 # Publications {#publications}
 
@@ -33,6 +33,7 @@ I am currently a Master's by Research student at the College of Computing and Da
 - **2026.02 - Present**, Huawei, Singapore  
   - Research Intern, Digital Trust Lab  
   - Mentor: [Dr. Lei Wang](https://scholar.google.com/citations?hl=en&user=YLa8T38AAAAJ&view_op=list_works&sortby=pubdate)
+  - Working on audio deepfake.
 
 # Academic Services {#academic-services}
 
