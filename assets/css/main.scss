@@ -158,6 +158,12 @@ h6,
   vertical-align: 0.05em;
 }
 
+.page__content code.pub-tag {
+  font-family: $site-sans-serif;
+  background: transparent;
+  border: 0;
+}
+
 .pub-year {
   background: #eef4ff;
   color: #224b8d;
