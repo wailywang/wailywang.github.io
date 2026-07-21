@@ -13,8 +13,8 @@ I am currently a Master of Engineering (by Research) student at the College of C
 
 # Publications {#publications}
 
-- ``2026``{:.pub-tag .pub-year} ``Interspeech``{:.pub-tag .pub-venue} ``Under Review``{:.pub-tag .pub-type} ``Audio Watermark Benchmark``{:.pub-title}
-- ``2026``{:.pub-tag .pub-year} ``Interspeech``{:.pub-tag .pub-venue} ``Under Review``{:.pub-tag .pub-type} ``Black-Box Audio Watermark Detection``{:.pub-title}
+- ``2026``{:.pub-tag .pub-year} ``Interspeech``{:.pub-tag .pub-venue} ``Oral``{:.pub-tag .pub-type} ``VoxWatermark: A Large-Scale Benchmark for Audio Watermark Detection under Perturbations``{:.pub-title} \| ``Farnaz Sedaghati*``{:.pub-author}, ``Yuxi Wang*``{:.pub-author .pub-me-author}, ``Zicheng Weng``{:.pub-author}, ``Wei Rao``{:.pub-author}
+- ``2026``{:.pub-tag .pub-year} ``SLT``{:.pub-tag .pub-venue} ``Under Review``{:.pub-tag .pub-type} ``X-AWMD: A Generalizable Framework for Black-Box Audio Watermark Detection under Method and Domain Shift``{:.pub-title} \| ``Yuxi Wang``{:.pub-author .pub-me-author}, ``Farnaz Sedaghati``{:.pub-author}, ``Zicheng Weng``{:.pub-author}, ``Yi-Wen Chao``{:.pub-author}, ``Wei Rao``{:.pub-author}, ``Eng Siong Chng``{:.pub-author}
 - ``2025``{:.pub-tag .pub-year} ``Interspeech``{:.pub-tag .pub-venue} ``VCapAV: A Video-Caption Based Audio-Visual Deepfake Detection Dataset``{:.pub-title} \| ``Yuxi Wang*``{:.pub-author .pub-me-author}, ``Yikang Wang*``{:.pub-author}, ``Qishan Zhang``{:.pub-author}, ``Hiromitsu Nishizaki``{:.pub-author}, ``Ming Li``{:.pub-author} \| [[paper]](https://www.isca-archive.org/interspeech_2025/wang25q_interspeech.html) [[page]](https://vcapav.github.io/) [[code]](https://github.com/wailywang/VCapAV) [[space]](https://huggingface.co/datasets/WailyWang/VCapAV/tree/main)
 - ``2025``{:.pub-tag .pub-year} ``APSIPA``{:.pub-tag .pub-venue} ``Efficient Video to Audio Mapper with Visual Scene Detection``{:.pub-title} \| ``Mingjing Yi``{:.pub-author}, ``Yuxi Wang``{:.pub-author .pub-me-author}, ``Ming Li``{:.pub-author} \| [[paper]](https://ieeexplore.ieee.org/document/11249337/) [[page]](https://1mageyi.github.io/V2A-SceneDetector.demo/) [[code]](https://github.com/1mageYi/V2A-SceneDetector)
 
@@ -31,7 +31,7 @@ I am currently a Master of Engineering (by Research) student at the College of C
 # Intern Experiences {#intern-experiences}
 
 - **2026.02 - Present**, Huawei, Singapore  
-  - Research Intern, Digital Trust Lab  
+  - Research Intern | Digital Trust Lab  
   - Mentor: [Dr. Lei Wang](https://scholar.google.com/citations?hl=en&user=YLa8T38AAAAJ&view_op=list_works&sortby=pubdate)
   - Working on audio deepfake.
 
