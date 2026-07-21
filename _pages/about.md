@@ -31,8 +31,8 @@ I am currently a Master of Engineering (by Research) student at the College of C
 # Intern Experiences {#intern-experiences}
 
 - **2026.02 - 2026.07**, Huawei Research Center, Singapore  
-  - Research Intern | Digital Trust Lab, Vienna 2012 Laboratory  
-  - Mentor: [Dr. Lei Wang](https://scholar.google.com/citations?hl=en&user=YLa8T38AAAAJ&view_op=list_works&sortby=pubdate)
+  - Research Intern, Digital Trust Lab, Vienna 2012 Laboratory  
+  - Mentor: [Dr. Lei Wang](https://scholar.google.com/citations?hl=en&user=YLa8T38AAAAJ&view_op=list_works&sortby=pubdate)  
   - Working on audio deepfake.
 
 # Academic Services {#academic-services}
