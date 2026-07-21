@@ -20,17 +20,17 @@ I am currently a Master of Engineering (by Research) student at the College of C
 
 # Educations {#education}
 
-- **2025.08 - 2027.05 (expected)**, Nanyang Technological University, Singapore  
+- **2025.08 - 2027.05 (expected)** ``Nanyang Technological University``{:.pub-tag .exp-org} ``Singapore``{:.pub-tag .exp-loc}  
   - Master of Engineering (by Research), College of Computing and Data Science  
   - Supervisor: Prof. Eng Siong Chng, [Speech and Language Laboratory](https://aseschng.github.io/speechLab_intro.html)
 
-- **2021.08 - 2025.05**, Duke Kunshan University, China & United States  
+- **2021.08 - 2025.05** ``Duke Kunshan University``{:.pub-tag .exp-org} ``China & United States``{:.pub-tag .exp-loc}  
   - Bachelor of Science in Data Science  
   - Supervisor: Prof. Ming Li, [Speech and Multimodal Intelligent Information Processing (SMIIP) Lab](https://smiip-mli.github.io/)
 
 # Intern Experiences {#intern-experiences}
 
-- **2026.02 - 2026.07**, Huawei Research Center, Singapore  
+- **2026.02 - 2026.07** ``Huawei Research Center``{:.pub-tag .exp-org} ``Singapore``{:.pub-tag .exp-loc}  
   - Research Intern, Digital Trust Lab, Vienna 2012 Laboratory  
   - Mentor: [Dr. Lei Wang](https://scholar.google.com/citations?hl=en&user=YLa8T38AAAAJ&view_op=list_works&sortby=pubdate)  
   - Working on audio deepfake.
