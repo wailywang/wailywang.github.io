@@ -280,12 +280,12 @@ h6,
 
 .avatar-tooltip {
   position: absolute;
-  left: 50%;
-  bottom: -0.5rem;
-  transform: translate(-50%, 8px);
+  left: 0;
+  top: calc(100% + 0.5rem);
+  transform: translateY(8px);
   z-index: 20;
   width: max-content;
-  max-width: 20rem;
+  max-width: min(20rem, 90vw);
   padding: 0.55rem 0.75rem;
   border-radius: 8px;
   background: #1f2937;
@@ -293,7 +293,7 @@ h6,
   font-family: $site-sans-serif;
   font-size: 0.72rem;
   line-height: 1.5;
-  text-align: center;
+  text-align: left;
   box-shadow: 0 6px 18px rgba(0, 0, 0, 0.22);
   opacity: 0;
   visibility: hidden;
@@ -309,7 +309,7 @@ h6,
 .author__avatar:focus-within .avatar-tooltip {
   opacity: 1;
   visibility: visible;
-  transform: translate(-50%, 0);
+  transform: translateY(0);
 }
 
 @media (prefers-reduced-motion: reduce) {
