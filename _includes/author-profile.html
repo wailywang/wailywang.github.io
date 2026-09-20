@@ -12,6 +12,10 @@
     {% else %}
     	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}"  fetchpriority="high" />
     {% endif %}
+    <span class="avatar-tooltip" role="tooltip">
+      <span class="avatar-tooltip__line">Sports-obsessed 🏎️⚽🏀</span>
+      <span class="avatar-tooltip__line">McLaren@F1🧡 | Chelsea@PremierLeague💙 | BayernMunich@Bundesliga❤️ | Warriors@NBA💛</span>
+    </span>
   </div>
 
   <div class="author__content">
