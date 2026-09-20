@@ -187,6 +187,7 @@ h6,
   border: 0;
   border-radius: 3px;
   font-family: $site-sans-serif;
+  font-size: 0.82em;
   line-height: 1.45;
   white-space: normal;
   transition: transform 0.16s ease, box-shadow 0.16s ease, filter 0.16s ease;
@@ -211,10 +212,6 @@ h6,
   background: #fff5d9;
   color: #5d4700;
   font-weight: 600;
-}
-
-.page__content code.pub-title.pub-title-sm {
-  font-size: 0.82em;
 }
 
 .pub-author {
