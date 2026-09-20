@@ -279,12 +279,12 @@ h6,
 }
 
 .avatar-tooltip {
-  position: absolute;
-  left: 0;
-  right: 0;
-  top: calc(100% + 0.5rem);
+  position: fixed;
+  left: 0.75rem;
+  right: 0.75rem;
+  bottom: 1rem;
   transform: translateY(8px);
-  z-index: 20;
+  z-index: 100;
   width: auto;
   padding: 0.55rem 0.75rem;
   border-radius: 8px;
@@ -293,7 +293,7 @@ h6,
   font-family: $site-sans-serif;
   font-size: 0.72rem;
   line-height: 1.5;
-  text-align: left;
+  text-align: center;
   box-shadow: 0 6px 18px rgba(0, 0, 0, 0.22);
   opacity: 0;
   visibility: hidden;
