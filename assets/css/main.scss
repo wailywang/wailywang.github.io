@@ -283,13 +283,13 @@ h6,
   position: absolute;
   left: 0;
   right: 0;
-  top: calc(100% + 0.5rem);
-  transform: translateY(8px);
+  top: 50%;
+  transform: translateY(calc(-50% + 8px));
   z-index: 20;
   width: auto;
   padding: 0.55rem 0.75rem;
   border-radius: 8px;
-  background: #1f2937;
+  background: rgba(31, 41, 55, 0.92);
   color: #f9fafb;
   font-family: $site-sans-serif;
   font-size: 0.72rem;
@@ -310,7 +310,7 @@ h6,
 .avatar-hoverwrap:focus-within .avatar-tooltip {
   opacity: 1;
   visibility: visible;
-  transform: translateY(0);
+  transform: translateY(-50%);
 }
 
 @media (prefers-reduced-motion: reduce) {
