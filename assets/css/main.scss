@@ -274,8 +274,9 @@ h6,
   box-shadow: 0 5px 14px rgba(0, 0, 0, 0.16);
 }
 
-.author__avatar {
+.avatar-hoverwrap {
   position: relative;
+  display: inline-block;
 }
 
 .avatar-tooltip {
@@ -305,8 +306,8 @@ h6,
   display: block;
 }
 
-.author__avatar:hover .avatar-tooltip,
-.author__avatar:focus-within .avatar-tooltip {
+.avatar-hoverwrap:hover .avatar-tooltip,
+.avatar-hoverwrap:focus-within .avatar-tooltip {
   opacity: 1;
   visibility: visible;
   transform: translateY(0);

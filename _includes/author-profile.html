@@ -7,14 +7,16 @@
 <div itemscope itemtype="http://schema.org/Person">
 
   <div class="author__avatar">
-    {% if author.avatar contains "://" %}
-    	<img src="{{ author.avatar }}" alt="{{ author.name }}"  fetchpriority="high" />
-    {% else %}
-    	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}"  fetchpriority="high" />
-    {% endif %}
-    <span class="avatar-tooltip" role="tooltip">
-      <span class="avatar-tooltip__line">Sports-obsessed 🏎️⚽🏀</span>
-      <span class="avatar-tooltip__line">McLaren@F1🧡 | Chelsea@PremierLeague💙 | FCBayern@Bundesliga❤️ | Warriors@NBA💛</span>
+    <span class="avatar-hoverwrap">
+      {% if author.avatar contains "://" %}
+      	<img src="{{ author.avatar }}" alt="{{ author.name }}"  fetchpriority="high" />
+      {% else %}
+      	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}"  fetchpriority="high" />
+      {% endif %}
+      <span class="avatar-tooltip" role="tooltip">
+        <span class="avatar-tooltip__line">Sports-obsessed 🏎️⚽🏀</span>
+        <span class="avatar-tooltip__line">McLaren@F1🧡 | Chelsea@PremierLeague💙 | FCBayern@Bundesliga❤️ | Warriors@NBA💛</span>
+      </span>
     </span>
   </div>
 
