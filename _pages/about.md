@@ -30,6 +30,10 @@ I am currently a Master of Engineering (by Research) student at the College of C
 
 # Intern Experiences {#intern-experiences}
 
+- **2026.08 - Present** ``Ant Group``{:.pub-tag .exp-org} ``Beijing``{:.pub-tag .exp-loc}  
+  - Research Intern, AI Security Group  
+  - Working on audio deepfake.
+
 - **2026.02 - 2026.07** ``Huawei Research Center``{:.pub-tag .exp-org} ``Singapore``{:.pub-tag .exp-loc}  
   - Research Intern, Digital Trust Lab, Vienna 2012 Laboratory  
   - Mentor: [Dr. Lei Wang](https://scholar.google.com/citations?hl=en&user=YLa8T38AAAAJ&view_op=list_works&sortby=pubdate)  
