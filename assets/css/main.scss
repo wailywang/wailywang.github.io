@@ -274,6 +274,11 @@ h6,
   box-shadow: 0 5px 14px rgba(0, 0, 0, 0.16);
 }
 
+/* Allow the avatar tooltip to extend beyond the sidebar without being clipped. */
+.sidebar {
+  overflow: visible;
+}
+
 .avatar-hoverwrap {
   position: relative;
   display: inline-block;
@@ -282,11 +287,12 @@ h6,
 .avatar-tooltip {
   position: absolute;
   left: 0;
-  right: 0;
+  right: auto;
   top: 50%;
   transform: translateY(calc(-50% + 8px));
   z-index: 20;
-  width: auto;
+  width: max-content;
+  max-width: min(20rem, 60vw);
   padding: 0.55rem 0.75rem;
   border-radius: 8px;
   background: rgba(31, 41, 55, 0.92);
