@@ -281,11 +281,11 @@ h6,
 .avatar-tooltip {
   position: absolute;
   left: 0;
+  right: 0;
   top: calc(100% + 0.5rem);
   transform: translateY(8px);
   z-index: 20;
-  width: max-content;
-  max-width: min(20rem, 90vw);
+  width: auto;
   padding: 0.55rem 0.75rem;
   border-radius: 8px;
   background: #1f2937;
