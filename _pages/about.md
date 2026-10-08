@@ -42,5 +42,5 @@ I am currently a Master of Engineering (by Research) student at the College of C
 
 # Academic Services {#academic-services}
 
-- Conference reviewer for ICASSP 2026.
 - Organizing Committee Member for [ICASSP 2027 – ADD 2026: The Third Audio Deepfake Detection Challenge](http://addchallenge.cn/add2026).
+- Conference reviewer for ICASSP 2026.
